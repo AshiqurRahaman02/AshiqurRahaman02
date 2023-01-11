@@ -12,5 +12,5 @@ Skills:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshiqurRahaman02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashiqur-rahaman-76b010255/)  
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshiqurRahaman02)](https://github.com/anuraghazra/github-readme-stats)
 
