@@ -80,37 +80,6 @@ Hello! My name is Ashiqur Rahaman and I am a Full Stack Node Developer, passiona
         </a>
       </td>
     </tr>
-<!--     <tr valign="top"> -->
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-          <span>C</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/c.svg"
-          />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://www.w3.org/TR/CSS/">
-          <span>CSS</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.docker.com/">
-          <span>Docker</span><br /><br />
-          <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
-        </a>
-      </td> -->
-<!--       <td width="25%" align="center">
-        <a href="http://expressjs.com/">
-          <span>Express</span><br /><br />
-          <img
-            height="64px"
-            src="https://cdn.svgporn.com/logos/express.svg"
-          />
-        </a>
-      </td> -->
 <!--     </tr> -->
     <tr valign="top">
       <td width="25%" align="center">
