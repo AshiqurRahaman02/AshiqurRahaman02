@@ -28,7 +28,7 @@ Hello! My name is Ashiqur Rahaman and I am a Full Stack Node Developer, passiona
 
 - 📫 Reach me on **ashiqur999999@gmail.com**
 
-- 💬 ask me about anything, i am happy to help
+- 💬 Ask me about anything, I am happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
